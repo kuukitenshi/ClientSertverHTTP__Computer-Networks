@@ -4,7 +4,7 @@ This project was a collaborative effort involving two more students for our ```C
 
 It was implemented in ```Java with version 17.0.4.1.``` 
 
-The objective of the project was to create a ```simple client-server program```, creating a ```multithreaded server``` that receives, processes and response, multiple HTTP requests from the connected clients, allowing a maximum of 5 clients connected at the same time, making requests simultaneously.
+The objective of the project was to create a ```simple client-server program```, creating a ```multithreaded server``` that receives, processes and response multiple HTTP requests from the connected clients, allowing a maximum of 5 clients connected at the same time, making requests simultaneously.
 
 In addition, it gave us the chance to gain knowledge about ```threads```, understand the workings of a ```client-server architecture```, and explore the ```HTTP protocol```, including the syntax of requests and responses, as well as error codes.
 
